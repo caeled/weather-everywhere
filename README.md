@@ -48,7 +48,7 @@ To produce a fresh portable ZIP, run tools/Build-Package.ps1 or use Python's zip
 
 This checkout can be hosted on any static host. Copy all files and preserve structure. GitHub Pages can use the main branch at the repository root.
 
-**tools/Publish-GitHub.ps1** creates or updates `caeled/weather-everywhere` using the official GitHub CLI, when you are signed in. It does not change login or security settings. Review the destination in the script before running. Publishing the repository does not enable Pages hosting automatically.
+**tools/Publish-GitHub.ps1** updates `caeled/weather-everywhere` using your existing Git login. It can adopt the remote history when run from a downloaded ZIP while preserving your working files. It does not change login or security settings. Review the destination in the script before running. Publishing the repository does not enable Pages hosting automatically.
 
 ## License
 
