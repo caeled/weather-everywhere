@@ -2,7 +2,7 @@
 
 A portable world-weather workshop for curious kids and adults. Ask, explore, connect.
 
-[Download ZIP](https://github.com/caeled/weather-everywhere/archive/refs/heads/main.zip) · [Open project on GitHub](https://github.com/caeled/weather-everywhere)
+[Open the workshop](https://caeled.github.io/weather-everywhere/) · [Download ZIP](https://github.com/caeled/weather-everywhere/archive/refs/heads/main.zip) · [Open project on GitHub](https://github.com/caeled/weather-everywhere)
 
 ## Start here
 
